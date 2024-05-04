@@ -1,0 +1,268 @@
+1. **Greetings:**
+   - Hello there!
+   - Good morning!
+   - Hi, how are you?
+   - Hey, what's up?
+   - Hi, nice to meet you!
+   - Good afternoon!
+   - Hi there, how's your day?
+   - Hello, how can I help you?
+   - Hey, long time no see!
+   - Hi, how have you been?
+   - Greetings, friend!
+   - Hello, it's good to see you!
+   - Hi, how's everything?
+   - Hey, how's life treating you?
+   - Hi, how's your day going?
+   - Good evening, how can I assist you?
+   - Hello, nice weather we're having, isn't it?
+   - Hi, hope you're doing well!
+   - Hey, what's new with you?
+   - Hi, it's great to see you again!
+
+2. **Farewells:**
+   - Goodbye, take care!
+   - See you later!
+   - Bye for now!
+   - Farewell, see you soon!
+   - Catch you later!
+   - Have a great day!
+   - Bye, it was nice talking to you!
+   - Until next time!
+   - Take care, goodbye!
+   - See you around!
+   - Bye-bye, stay safe!
+   - Have a good one!
+   - Adios!
+   - So long, farewell!
+   - Bye now, see you later!
+   - Until we meet again!
+   - Goodbye, have a wonderful day!
+   - Take it easy!
+   - Bye, have a great weekend!
+   - Farewell, it was a pleasure chatting with you!
+
+
+3. **Inquiry:**
+   - Can you please help me?
+   - I need some assistance, could you lend a hand?
+   - Excuse me, do you have a moment to help me with something?
+   - Could you give me a hand with this?
+   - I'm having trouble, can you assist?
+   - I'm in need of some help, can you provide guidance?
+   - Sorry to bother you, but I could use your help.
+   - Can you offer some assistance, please?
+   - Do you mind helping me out?
+   - I'm stuck, can you help me figure this out?
+   - Could you do me a favor and help me with this?
+   - I could use some support, can you help?
+   - Could you spare a moment to help me, please?
+   - I'm having difficulty, could you assist me?
+   - Sorry to interrupt, but could you help me with this issue?
+   - Can you lend me a hand, please?
+   - I'm struggling, could you offer some assistance?
+   - Excuse me, could you help me with this problem?
+   - I'm not sure what to do, can you help me out?
+   - I could use some help, can you lend your expertise?
+   - Can you please pass the salt?
+   - Could you turn down the volume, please?
+   - Would you mind closing the door behind you?
+   - Can you send me the document when you get a chance?
+   - Could you help me with my homework?
+   - Would you be so kind as to pick up some groceries on your way home?
+   - Can you make a reservation for dinner tonight?
+   - Would you please call me later?
+   - Could you lend me your umbrella for today?
+   - Would you mind holding the door for me?
+   - Can you teach me how to cook this dish?
+   - Could you give me a ride to the airport?
+   - Would you mind proofreading my essay?
+   - Can you help me move this furniture?
+   - Could you please forward this email to me?
+   - Would you be able to water the plants while I'm away?
+   - Can you translate this document for me?
+   - Could you buy me a coffee on your way back?
+   - Would you mind feeding the cat while I'm out of town?
+   - Can you take a photo of us, please?
+   - Do you know where the nearest restroom is?
+   - Could you tell me how to get to the nearest post office?
+   - Do you have the time?
+   - Can you tell me what time the movie starts?
+   - Do you know where I can find a good pizza place around here?
+   - Could you tell me how to spell this word?
+   - Do you have any information about upcoming events in the area?
+   - Can you tell me where I can find a pharmacy?
+   - Do you know what time the store opens tomorrow?
+   - Could you tell me the WiFi password, please?
+   - Do you have any recommendations for restaurants in the area?
+   - Can you tell me how to say this phrase in Spanish?
+   - Do you know where I can find a public library?
+   - Could you tell me how much this item costs?
+   - Do you have any information about local tourist attractions?
+   - Can you tell me where I can find a taxi stand?
+   - Do you know what time the bus to downtown arrives?
+   - Could you tell me where I can find a gym?
+   - Do you know when the next train to Boston leaves?
+   - Can you tell me where I can find the closest ATM?
+
+4. **Expressing Gratitude:**
+   - Thank you so much for your help!
+   - I really appreciate your assistance.
+   - Thanks a million!
+   - I'm so grateful for your support.
+   - Thank you for going above and beyond!
+   - I can't thank you enough!
+   - Thanks for being there for me.
+   - I'm so thankful for your kindness.
+   - Thank you for everything you've done.
+   - I'm truly grateful for your help.
+   - Thanks for always being so helpful.
+   - I really appreciate your time and effort.
+   - Thank you for your generosity.
+   - I'm so grateful to have you in my life.
+   - Thanks for being such a great friend.
+   - I can't express how thankful I am.
+   - Thank you for being so understanding.
+   - I'm so appreciative of your assistance.
+   - Thanks a bunch!
+   - Thank you from the bottom of my heart.
+
+5. **Apologies:**
+   - I'm sorry for the misunderstanding.
+   - I apologize for the inconvenience.
+   - I'm sorry for being late.
+   - Please accept my apologies for the mistake.
+   - I apologize for any confusion caused.
+   - I'm sorry for my behavior.
+   - I'm sorry if I upset you.
+   - Please forgive me for my mistake.
+   - I apologize for the inconvenience this may have caused.
+   - I'm sorry for the trouble.
+   - I'm sorry for the delay in response.
+   - I apologize for my absence.
+   - Please accept my sincerest apologies.
+   - I'm sorry for any inconvenience I may have caused.
+   - I apologize for my actions.
+   - I'm sorry for not being able to help.
+   - Please forgive me for my oversight.
+   - I apologize for the oversight.
+   - I'm sorry for the misunderstanding.
+   - I apologize for my lack of consideration.
+
+
+6. **Expressing Emotions:**
+    - I'm so happy right now!
+    - I'm feeling excited about the upcoming trip.
+    - I'm thrilled to hear the good news!
+    - I'm feeling grateful for all the support.
+    - I'm overjoyed by your success!
+    - I'm feeling sad about the loss of our pet.
+    - I'm heartbroken by the news of the accident.
+    - I'm feeling anxious about the upcoming presentation.
+    - I'm worried about the future of our planet.
+    - I'm feeling frustrated with the lack of progress.
+    - I'm angry about the way I was treated.
+    - I'm feeling disappointed by the outcome.
+    - I'm feeling relieved that everything worked out.
+    - I'm ecstatic about the opportunity!
+    - I'm feeling overwhelmed by all the work.
+    - I'm feeling nostalgic about the good old days.
+    - I'm feeling proud of my accomplishments.
+    - I'm feeling content with life right now.
+    - I'm feeling hopeful about the future.
+    - I'm feeling inspired by your words.
+
+7. **Making Suggestions:**
+    - Why don't we go out for dinner tonight?
+    - We could try that new restaurant downtown.
+    - How about going to the beach this weekend?
+    - Why not plan a movie night at home?
+    - We could go for a hike in the mountains.
+    - How about organizing a game night with friends?
+    - Why don't we go on a road trip next month?
+    - We could have a picnic in the park.
+    - How about trying out that new coffee shop?
+    - Why not sign up for a cooking class together?
+    - We could plan a weekend getaway to the countryside.
+    - How about attending that concert next week?
+    - Why don't we explore that new museum?
+    - We could have a potluck dinner at my place.
+    - How about going camping for the weekend?
+    - Why not take a dance class together?
+    - We could plan a visit to the zoo.
+    - How about volunteering at the local shelter?
+    - Why not try out that new hobby?
+    - We could plan a day trip to the nearest city.
+
+
+
+8. **Making Excuse**
+    - Excuse me, there seems to be a problem with my order.
+    - I'm sorry, but my food is cold.
+    - Excuse me, I think there's a mistake on my bill.
+    - I'm afraid there's a problem with my hotel room.
+    - Excuse me, but my flight has been delayed.
+    - I'm sorry, but my internet connection isn't working.
+    - Excuse me, there's a problem with my rental car.
+    - I'm afraid there's been a mix-up with my reservation.
+    - Excuse me, but my package hasn't arrived yet.
+    - I'm sorry, but my computer keeps crashing.
+    - Excuse me, but my phone isn't charging.
+    - I'm afraid there's a leak in my apartment.
+    - Excuse me, but my luggage is missing.
+    - I'm sorry, but my appointment was canceled without notice.
+    - Excuse me, but my order is incorrect.
+    - I'm afraid there's a problem with my insurance claim.
+    - Excuse me, but my train has been canceled.
+    - I'm sorry, but my car won't start.
+    - Excuse me, but my flight has been overbooked.
+    - I'm afraid there's an issue with my credit card.
+
+9. **Expressing Preferences:**
+    - I prefer tea over coffee.
+    - I'd rather stay in than go out tonight.
+    - My favorite color is blue.
+    - I prefer dogs to cats.
+    - I'd rather watch a movie than go to a party.
+    - My favorite food is pizza.
+    - I prefer summer over winter.
+    - I'd rather read a book than watch TV.
+    - My favorite hobby is gardening.
+    - I prefer listening to music than watching movies.
+    - I'd rather go for a hike than go shopping.
+    - My favorite genre of music is rock.
+    - I prefer spending time outdoors than indoors.
+    - I'd rather eat at home than go to a restaurant.
+    - My favorite movie genre is comedy.
+    - I prefer traveling by train than by plane.
+    - I'd rather cook my own meals than eat out.
+    - My favorite season is autumn.
+    - I prefer exercising in the morning than in the evening.
+    - I'd rather spend time with friends than be alone.
+
+
+10. **Expressing Congratulations:**
+    - Congratulations on your promotion, you deserve it!
+    - Congratulations on your graduation, I'm so proud of you!
+    - Congratulations on your new job, I knew you could do it!
+    - Congratulations on your engagement, I'm so happy for you!
+    - Congratulations on your wedding, may you have a lifetime of happiness together!
+    - Congratulations on your new baby, parenthood suits you!
+    - Congratulations on your anniversary, here's to many more years of love and happiness!
+    - Congratulations on passing your exam, all your hard work paid off!
+    - Congratulations on your new home, may it be filled with love and laughter!
+    - Congratulations on your retirement, enjoy this new chapter of your life!
+    - Congratulations on your achievement, you're an inspiration to us all!
+    - Congratulations on your award, you truly deserve it!
+    - Congratulations on your success, the sky's the limit for you!
+    - Congratulations on your publication, your work is truly outstanding!
+    - Congratulations on your new business venture, I have no doubt you'll succeed!
+    - Congratulations on your recovery, you're a fighter!
+    - Congratulations on your performance, you were amazing!
+    - Congratulations on your scholarship, your hard work has paid off!
+    - Congratulations on your milestone birthday, may this year be your best yet!
+    - Congratulations on your new adventure, may it be filled with unforgettable memories!
+
+
+
+
