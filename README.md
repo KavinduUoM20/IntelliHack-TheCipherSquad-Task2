@@ -26,7 +26,7 @@ pip install tensorflow keras scikit-learn nltk
 ## File Descriptions
 - `Task 02 NLU Model.ipynb`: Jupyter Notebook containing the code for training the LSTM model.
 - `data.text`: Sample dataset containing text samples labeled with intents.
-- `best_model.h5`: Trained LSTM model saved after training.
+- `Intent_classifer_model.h5`: Trained LSTM model saved after training.
 
 ## Functionality
 - **Data Preprocessing**: The text data is preprocessed to lowercase, remove punctuation, and tokenize the text samples.
